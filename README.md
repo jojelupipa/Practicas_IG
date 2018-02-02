@@ -1,5 +1,5 @@
 # Practicas_IG
-Prácticas de Informática Gŕafica (UGR)
+Prácticas de Informática Gráfica (UGR)
 
 En este repositorio se encuentran las prácticas realizadas para la
 asignatura Informática Gráfica. Han sido realizadas con Qt y partiendo
